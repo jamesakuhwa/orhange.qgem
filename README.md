@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jamesakuhwa
-- 👀 I’m interested in cryptocurrrency, blockchain games, nft marketplace
-- 🌱 I’m currently learning cryptography, coding 
-- 💞️ I’m looking to collaborate on blockchain gaming project
-- 📫 How to reach me ... discord @orhange#7624
+- 👀 I’m interested in cryptocurrrency, blockchain games, NFTs
+- 🌱 I’m currently developing the qgem ecosystem
+- 💞️ I’m looking to collaborate on blockchain gaming projects
+- 📫 How to reach me ... https://twitter.com/orhange_qgem ; https://www.instagram.com/orhange.qgem/
 
 <!---
 jamesakuhwa/jamesakuhwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
